@@ -13,7 +13,7 @@
 <input type = "reset" value = "Clear">
 <p align ="center">
 </p>
-<a href="deldata.php"> Delete Group</a>
+<a href ="deldata.php"> Delete Group</a>
 <?php
 /*
 mysql_select_db("ccmk");
