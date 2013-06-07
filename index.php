@@ -1,14 +1,18 @@
 <html>
+<script src="js/jquery-min.js"></script>
+<script src="js/peeih.js"></script>
+
 <title> PHP ---> MySQL</title>
+
 <body>
-<b> Adding data</b>
-<form method="POST" action ="adding.php">
-<ul>
-<li>id <input type="text" name="id" size="10"></li>
-<li>creator <input type="text" name="creator" size="12"></li>
-<li>startDate <input type="text" name="startDate" size="12"></li>
-<li>name <input type="text" name="name" size="12"></li>
-</ul>
+  <b> Adding data</b>
+  <form method="POST" action ="adding.php">
+    <ul>
+        <li>id <input type="text" name="id" size="10"></li>
+        <li>creator <input type="text" name="creator" size="12"></li>
+        <li>startDate <input type="text" name="startDate" size="12"></li>
+        <li>name <input type="text" name="name" size="12"></li>
+    </ul>
 <p align = "left"><input type="submit" value = "Add new Group">
 <input type = "reset" value = "Clear">
 <p align ="center">
