@@ -1,4 +1,4 @@
 *.swp
 *~
-*~
+~*
 srv/settings.php

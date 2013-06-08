@@ -17,7 +17,7 @@ function populateTable() {
           var name = group.name;
           
           var row = "";
-          var idx = '<td>'+id+'</td>';        
+          var idx = '<td><a href="confirm_delete.php?id">'+id+'</a></td>';        
           var creatorx = '<td>'+creator+'</td>';
           var startDatex = '<td>'+startDate+'</td>';
           var namex = '<td>'+name+'</td>';

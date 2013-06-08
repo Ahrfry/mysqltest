@@ -1,4 +1,7 @@
 <html>
+
+  <script src="../js/jquery-min.js"></script>
+  <script src="../js/confirm_delete.js"></script>
   <body>
 
     <p>The FIXME will be deleted.</p>
